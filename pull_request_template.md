@@ -9,7 +9,7 @@ These changes are documented at:
 
 These changes are tested as follows:
  - Screenshots of functionality
- - Specify tests performed
+ - Specify tests performed and outcomes
 
 Possible bugs or issues:
  - List complications, potential future work, or N/A
